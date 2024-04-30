@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "nodemon src/index.js"
   },
-  "keywords":[
+  "keywords": [
     "javascript",
     "backend",
     "kash"
@@ -15,6 +15,7 @@
   "author": "Harsh Gupta",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^3.1.0"
+    "nodemon": "^3.1.0",
+    "prettier": "^3.2.5"
   }
 }
